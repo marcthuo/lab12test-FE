@@ -1,6 +1,6 @@
 import React from 'react';
 
-const UserCard = props => {
+const UserCard = props => { 
     return (
         <div> 
             <div>Name: {props.usercard.name}</div>
